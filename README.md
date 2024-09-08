@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react , javascript , html , css**
 
-- 📫 How to reach me **suryanshutiwari00@gmail.com**
+- 📫 Mail me **suryanshutiwari00@gmail.com**
 
 - 📄 My Resume is here [https://drive.google.com/file/d/1SKDRZGCnotSyG7m7SvKfeoqV_4hQBkbP/view?usp=drive_link](https://drive.google.com/file/d/1SKDRZGCnotSyG7m7SvKfeoqV_4hQBkbP/view?usp=drive_link)
 
