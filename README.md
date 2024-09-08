@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suryanshutiwari00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SKDRZGCnotSyG7m7SvKfeoqV_4hQBkbP/view?usp=drive_link](https://drive.google.com/file/d/1SKDRZGCnotSyG7m7SvKfeoqV_4hQBkbP/view?usp=drive_link)
+- 📄 My Resume is here [https://drive.google.com/file/d/1SKDRZGCnotSyG7m7SvKfeoqV_4hQBkbP/view?usp=drive_link](https://drive.google.com/file/d/1SKDRZGCnotSyG7m7SvKfeoqV_4hQBkbP/view?usp=drive_link)
 
 - ⚡ Fun fact **Interested in blockchain Development**
 
