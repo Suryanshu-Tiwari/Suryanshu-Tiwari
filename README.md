@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/suryanshutiwa17" target="blank"><img src="https://img.shields.io/twitter/follow/suryanshutiwa17?logo=twitter&style=for-the-badge" alt="suryanshutiwa17" /></a> </p>
 
-- 🔭 I’m currently working on **messaging_application**
+- 🔭 I’m currently working on **Full Stack**
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **react , javascript , html , css**
+- 💬 Ask me about **reactjs , Nodejs , javascript , html , css**
 
 - 📫 Mail me **suryanshutiwari00@gmail.com**
 
