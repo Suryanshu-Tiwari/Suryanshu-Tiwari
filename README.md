@@ -13,7 +13,7 @@
 
 - 📫 Mail me **suryanshutiwari00@gmail.com**
 
-- 📄 My Resume is here [https://drive.google.com/file/d/1SKDRZGCnotSyG7m7SvKfeoqV_4hQBkbP/view?usp=drive_link](https://drive.google.com/file/d/1SKDRZGCnotSyG7m7SvKfeoqV_4hQBkbP/view?usp=drive_link)
+- 📄 My Resume is [HERE](https://drive.google.com/drive/folders/15asBlkKpDGyW1B_vv5BbZGiUzWpO3ump?usp=drive_link)
 
 - ⚡ Fun fact **Interested in blockchain Development**
 
